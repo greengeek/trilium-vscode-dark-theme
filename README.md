@@ -3,6 +3,7 @@
 - Dark theme inspired by MS Visual Studio Code's default dark theme (dark+)
 - Updated fonts to websafe for easy web viewing. 
 - Easy to view and modern template.
+- Adjusted spacing and dimmed some of the controls to make it easier to read.
 
 ## Instructions
 - Create a new note in Trilium notes.

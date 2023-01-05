@@ -118,7 +118,6 @@ span.fancytree-active {
 
 .tab-row-widget .note-tab[active] .note-tab-wrapper {
   font-weight: normal !important;
-  font-weight: bold !important;
   border-radius: 0px !important;
 }
 
@@ -148,6 +147,10 @@ div#launcher-pane .global-menu-button:hover {
 
 .note-new-tab {
   background-color: #252526 !important;
+}
+
+.fancytree-node {
+    height: 28px !important;
 }
 
 span.fancytree-node:hover {

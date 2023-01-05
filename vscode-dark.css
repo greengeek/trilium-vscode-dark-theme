@@ -127,10 +127,13 @@ span.fancytree-active {
 }
 
 button.tree-floating-button:hover {
-  border: 0px !important;
+  border: 0px transparent !important;
   background-color: #333333 !important;
 }
 
+button.tree-floating-button {
+    border: 0px transparent !important;
+}
 .ck-content pre {
   border: 1px solid #37373D !important;
   border-radius: 0px !important;
@@ -151,6 +154,7 @@ div#launcher-pane .global-menu-button:hover {
 
 .fancytree-node {
     height: 28px !important;
+    border: 0px solid transparent !important;
 }
 
 span.fancytree-node:hover {

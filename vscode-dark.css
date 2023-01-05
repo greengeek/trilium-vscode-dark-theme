@@ -196,3 +196,7 @@ span.fancytree-node:hover {
     min-height: 70px !important;
     padding-top: 20px !important;
 }
+
+#right-pane .card-header {
+    padding: 8px !important;
+}

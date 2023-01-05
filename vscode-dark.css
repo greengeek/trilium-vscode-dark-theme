@@ -108,7 +108,8 @@ span.fancytree-active {
 }
 
 .tab-row-filler {
-  background-color: #1E1E1E !important;
+  background-color: #333 !important;
+  height: 90% !important;
 }
 
 .tab-row-widget .note-tab .note-tab-wrapper {

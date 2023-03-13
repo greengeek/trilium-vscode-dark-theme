@@ -200,3 +200,7 @@ span.fancytree-node:hover {
 #right-pane .card-header {
     padding: 8px !important;
 }
+
+.ck.ck-list__item .ck-button:hover:not(.ck-disabled) {
+    background: #519aba;
+}

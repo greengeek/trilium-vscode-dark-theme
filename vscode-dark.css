@@ -41,7 +41,7 @@
     --hover-item-border-color: #333;
 
     --active-item-text-color: #ccc;
-    --active-item-background-color: transparent;
+    --active-item-background-color: 04395E;
     --active-item-border-color: transparent;
 
     --menu-text-color: #ccc;
@@ -202,5 +202,5 @@ span.fancytree-node:hover {
 }
 
 .ck.ck-list__item .ck-button:hover:not(.ck-disabled) {
-    background: #519aba;
+    background: #04395E;
 }
